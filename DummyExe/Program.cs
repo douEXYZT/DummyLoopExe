@@ -3,7 +3,8 @@
     internal class Program
     {
         private static void Main()
-        {
+        { for(;;)
+            {}
         }
     }
 }
